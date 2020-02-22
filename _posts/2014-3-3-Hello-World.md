@@ -3,9 +3,5 @@ layout: post
 title: Truth
 published: false
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## The question
+There are multiple ways I can start my metaphysical endeavor. The main problem here is to organize the narrative in such a way that I don't refer to things I haven't yet mentioned. With that in mind, let's start with a seemingly simple question: what is a truth?
