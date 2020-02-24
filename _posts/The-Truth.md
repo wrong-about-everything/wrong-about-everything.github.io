@@ -15,3 +15,7 @@ This intuitive understanding of the truth dates back to Aristotle who posited it
 
 This view is called [the Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/).
 
+Correspondence is a relation, namely the relation between two things: a sentence or thought, and the way the world is. This relation is just a formal way to indicate that the world is the way a sentence says. When this relation exists, a sentence is true. Or, put in other words, when a sentence corresponds to some actual way the world is, it's true. Otherwise, when the world is not the way a sentence says, there is no correspondence relation between a sentence and a world, and a sentence is false.
+
+[IMAGE WITH CORRESPONDENCE RELATION]
+
