@@ -11,7 +11,7 @@ Right now, on November 19, 2019, at 8:54 am, as I'm writing this sentence, I'm d
 
 This intuitive understanding of the truth dates back to Aristotle who posited it like the following:
 
-> A sentence is true if the world is the way the sentence says, and false, if the world is not the way the sentence says.
+> A sentence is true if the world is the way the sentence says, and false, if the world is not the way the sentenceÂ says.
 
 This view is called [the Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/).
 
@@ -19,3 +19,13 @@ Correspondence is a relation, namely the relation between two things: a sentence
 
 [IMAGE WITH CORRESPONDENCE RELATION]
 
+Here are some arguments for truthmakers.
+First, the Correspondence Theory of Truth naturally leads to truthmakers. It's a specific thing in the world that propositions correspond to.
+Second, truthmakers help us to distinguish between ideologically and ontologically distinct theories. Theories are ideologically distinct if they describe the world similarly but using different terminology. On the contrary, theories that describe the world differently, are ontologically distinct.
+For example, there are two theories. The first one says that there are tomatoes and cucumbers. The second one claims that there are Solanum lycopersicums and Cucumis sativuses. Those theories simply use a different naming, so they are ideologically distinct.
+Now take another two theories. The first one says that there are just bananas and oranges, and the second one insists on apples and mangoes. The world's ontology is different in those theories. So they are ontologically different.
+Third, truthmakers can be employed to catch metaphysical cheaters. Here is what a dialogue with a metaphysical cheater, Vince, looks like:
+Vince: - I believe that p is true.
+Me: - Why?
+Vince: - Because!
+Vince is a cheater because he refuses to ground the truth of a proposition p.
