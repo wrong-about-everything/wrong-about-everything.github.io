@@ -29,8 +29,8 @@ Now take another two theories. The first one says that there are just bananas an
 
 Third, truthmakers can be employed to catch metaphysical cheaters. Here is what a dialogue with a metaphysical cheater, Vince, looks like:
 
-Vince: - I believe that p is true.
+Vince: - I believe that _p_ is true.
 Me: - Why?
 Vince: - Because!
 
-Vince is a cheater because he refuses to ground the truth of a proposition p.
+Vince is a cheater because he refuses to ground the truth of a proposition _p_.
