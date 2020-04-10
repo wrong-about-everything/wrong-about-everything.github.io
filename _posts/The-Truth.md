@@ -30,9 +30,12 @@ Otherwise, when there is no correspondence relation between a sentence and a wor
 No correspondence relation. Sentence is false
 
 This relation is what we can call a "truth" in the Correspondence Theory of Truth.
-Propositions
+
+# Propositions
 Imagine a guy sitting next to me and watching me drinking a cup of flat white. He might utter "Este chico está bebiendo un flat white". In Spanish, it means "This guy is drinking a flat white". The meaning of that utterance and its textual translation in English is the same. And there are always multiple ways to express the same meaning.
+
 The concept of proposition reflects this idea. A proposition is a language-independent meaning of a sentence or some other mental entity, like thought, belief, or desire.
+![Mental entity, proposition, world](/images/truth/sentence_proposition_world.jpg)
 The concept of proposition takes Aristotle's Correspondence Theory of Truth a little further. Instead of sentences corresponding to the world, we have a more general concept - a proposition. It's an abstract entity, free from human conventions, which represents the world somehow.
 Propositions which are true are often called "truths" as well. But what exactly should a proposition correspond to in order to be true?
 Classical Truthmaker Theory
