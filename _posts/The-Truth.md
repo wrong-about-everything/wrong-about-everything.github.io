@@ -26,7 +26,7 @@ Sentence is true
 
 Otherwise, when there is no correspondence relation between a sentence and a world, the world is not the way a sentence says, and a sentence is false.
 
-![Sentence is false](/images/truth/sentence_is_false.jpg)
+![No correspondence relation. Sentence is false](/images/truth/no_correspondence_relation_sentence_is_false.jpg)
 No correspondence relation. Sentence is false
 
 This relation is what we can call a "truth" in the Correspondence Theory of Truth.
@@ -116,20 +116,34 @@ All our values, even the deepest ones, are based on faith. And any faith by its 
 Besides, the traditional view of knowledge is deeply rooted in the concept of truth. We can't know things which are false. For example, we don't have any chance to know that Hillary Clinton has won the US Presidential election in 2016 - because she has lost.
 
 # Truth Supervenes on Being
-Generally, supervenience is a specific relation between sets. Set *X* supervenes on a set Y if and only if you can't change some element in *X* without changing some element in Y. In other words, a set *X* is fixed by a set Y. Or, we can say that a set *X* depends on a set Y.
+Generally, supervenience is a specific relation between sets. Set *X* supervenes on a set *Y* if and only if you can't change some element in *X* without changing some element in *Y*. In other words, a set *X* is fixed by a set *Y*. Or, we can say that a set *X* depends on a set *Y*.
 
 Classical Truthmaker Theory postulates that a proposition is true in virtue of correspondence to a fact from the real world. Truth Supervenes on Being takes a broader perspective on the nature of this correspondence relation.
 
-First of all, it goes in two flavors: strong and weak. Strong version defended by John Bigelow [^1] postulates the following:
-If something is true then it would not be possible for it to be false unless either certain things were to exist which don't, or else certain things had not existed which do.
+First of all, it goes in two flavors: strong and weak. Strong version defended by John Bigelow[^1] postulates the following:
+
+> If something is true then it would not be possible for it to be false unless either certain things were to exist which don't, or else certain things had not existed which do.
+
 Thus, Truth Supervenes on Being goes hand in hand with Atomic Truthmaker Theory concerning true positive atomic propositions: it's not possible for them to be false unless their truthmakers had not existed. Besides, it fills truthmaker gap in negative propositions like "There are no unicorns". It's not possible for it to be false unless certain things, namely, unicorns, existed; but they don't. Thus, we don't need a Totality Fact for that, it's enough to not have a falsitymaker, that is, unicorns. Universal generalizations are treated the same way. "All stones are solid" is impossible to be false unless non-solid stones existed, but they apparently don't.
+
 In other words, true propositions, or truths, supervene on the ontology of the world, on things that exist and that don't.
+
 The weaker version implies that truth supervenes not only on existence or absence of specific entity, but also on an entity having specific properties, or a set of entities standing in specific relations with each other. In this version, the proposition "I'm drinking a flat white" doesn't require a truthmaker. It supervenes on the world having me drinking a flat white. If this proposition was false, there would be some differences in the world, such as me drinking an americano instead.
-Weak version of Truth Supervenes on BeingTruth Supervenes on Being addresses the issue with unrelatedness of truth of a proposition *p* and falsity of non-p. Consider for example a proposition "Snow is white". It's true in virtue of our world being such that snow has specific properties, one of them is being white. And this results automatically in falsity of propositions like "Snow is red", "Snow is blue", etc - because snow has the property of being white, not red or blue.
-Further reading
+
+![Weak version of Truth Supervenes on Being](/images/truth/truth_supervenes_on_being.jpg)
+Weak version of Truth Supervenes on Being
+
+Truth Supervenes on Being addresses the issue with unrelatedness of truth of a proposition *p* and falsity of non-p. Consider for example a proposition "Snow is white". It's true in virtue of our world being such that snow has specific properties, one of them is being white. And this results automatically in falsity of propositions like "Snow is red", "Snow is blue", etc - because snow has the property of being white, not red or blue.
+
+# Further reading
 I gave an overview of different perspectives on the concept of truth and what it means to be true. It's by no means an exhaustive one, and it wasn't supposed to be such. There are a lot of publications which take a deeper dive.
-Fist of all, there is still no consensus in the nature of relation between a truthbearer and a truthmaker. Here you can find different views on that.
-Here and here you can find an overview of existing theories of truth in greater detail.
-Here is a nice overview of truthmakers and how they fit in other areas of metaphysics.
-If you want to dive deeper in the Correspondence Theory of truth, check out this.
+
+Fist of all, there is still no consensus in the nature of relation between a truthbearer and a truthmaker. [Here](https://plato.stanford.edu/entries/truthmakers/#WhaTruMak) you can find different views on that.
+
+[Here](https://www.iep.utm.edu/truth/) and [here](https://plato.stanford.edu/entries/truth/) you can find an overview of existing theories of truth in greater detail.
+
+[Here](https://www.iep.utm.edu/truth-ma/) is a nice overview of truthmakers and how they fit in other areas of metaphysics.
+
+If you want to dive deeper in the Correspondence Theory of truth, check out [this one](https://plato.stanford.edu/entries/truth-correspondence/).
+
 [^1]: Bigelow, John. 1988. The Reality of Numbers: A Physicalist's Philosophy of Mathematics. Oxford: Clarendon Press.
