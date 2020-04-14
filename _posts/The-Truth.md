@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth
-published: false
+published: true
 ---
 # The Question
 
