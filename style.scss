@@ -115,11 +115,6 @@ img {
   max-width: none;
 }
 
-.date {
-  font-size: 18px;
-  color: $gray;
-}
-
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -240,6 +235,11 @@ nav {
 //
 // .main
 //
+
+.post-info {
+  font-size: 17px;
+  color: $gray;
+}
 
 .posts > .post {
   padding-bottom: 2em;
