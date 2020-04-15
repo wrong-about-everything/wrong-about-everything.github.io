@@ -4,6 +4,12 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  <span class="post-info">
+    <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+    <span class="bull">•</span>
+    <span class="reading-time" title="Estimated read time">{% include read-time.html content=post.content %}</span>
+  </span>
+
   <span class="date">{{ page.date | date: "%B %e, %Y" }}</span>
 
   <div class="entry">
