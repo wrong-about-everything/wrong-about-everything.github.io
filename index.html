@@ -7,7 +7,12 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+      <span class="post_info">
+        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+        <span class="bull">•</span>
+        <span>•</span>
+        <span class="reading-time" title="Estimated read time">{% include read-time.html content=post.content %}</span>
+      </span>
 
       <div class="entry">
         {{ post.excerpt }}
