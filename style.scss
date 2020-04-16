@@ -158,10 +158,8 @@ img {
 }
 
 .site-avatar {
-  @include mobile {
-    display: block;
-    margin: 0 auto;
-  }
+  height: 80px;
+  margin: 0 auto;
 
   img {
     border-radius: 5px;
