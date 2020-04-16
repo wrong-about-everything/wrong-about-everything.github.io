@@ -150,7 +150,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
 
   @include mobile {
     text-align: center;
@@ -158,13 +158,7 @@ img {
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
