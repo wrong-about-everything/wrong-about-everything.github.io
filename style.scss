@@ -160,9 +160,12 @@ img {
 .site-avatar {
   height: 80px;
   margin: 0 auto;
+  overflow: hidden;
 
   img {
     border-radius: 5px;
+    width: 100%;
+    min-height: 100%;
   }
 }
 
