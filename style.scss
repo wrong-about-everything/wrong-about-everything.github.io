@@ -286,6 +286,12 @@ nav {
   .comments {
     margin-top: 10px;
   }
+  
+  figcaption {
+    font-size: 0.8em;
+    color: $gray;
+    text-align: center;
+  }
 }
 
 .wrapper-footer {
