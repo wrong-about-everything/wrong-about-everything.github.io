@@ -1,9 +1,10 @@
 ---
-published: false
 layout: post
 title: Causation: Properties and the Laws of Nature
 tags: [causation, properties, the laws of nature]
+published: false
 ---
+Causation: Properties and the Laws of Nature
 
 To be honest, I really struggled with the title. There are quite a few topics covered here, all of them are interconnected somehow, but which one is central? Finally, I came up with the one you see right now. This post is about causation, and there are two major views on that. Both of those views stand upon two major topics: properties and the laws of nature.
 
