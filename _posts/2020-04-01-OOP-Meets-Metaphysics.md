@@ -5,6 +5,8 @@ tags: [Metaphysics overview, OOP, Domain modeling]
 ---
 From ancient times - I mean, really ancient, all the way before Plato, Aristotle and all, people have been entertaining themselves with a fancy question: what does the world consist of? What is the reality surrounding us? What is there? What is it like? Why?
 
+This post is a short intro in metaphysics, and it gives a glimpse of how well metaphysics can serve us along the way of domain modeling. It briefly skims through what I've been up to in recent months, and what I'll be writing about in the coming months.
+
 ## Short intro in metaphysics
 ### Objects
 There are apples and oranges, and there is the apple in front of me. There are Tuesdays and sevens, and today is Tuesday and there are seven avocados in my refrigerator. There is honesty and there are specific persons who are honest.
