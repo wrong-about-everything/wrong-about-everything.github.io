@@ -123,9 +123,11 @@ Powerism is a combination of two views: Dispositionalism, which postulates that 
 
 Powerist folks use a special lingo. Active power is a cause. Some object possesses an active power when it's able to induce a certain kind of change in other things. Passive power is an effect. An object possesses a passive power when it's disposed to undergo a specific change under specific circumstances.
 
-[POWERS AS ACTIONS]
+![Powers as actions](/images/causation/powers_as_actions.jpg)
+<figcaption>Powers as actions</figcaption>
 
-[POWERS AS DISPOSITIONAL PROPERTIES]
+![Powers as actions](/images/causation/powers_as_dispositional_properties.jpg)
+<figcaption>Powers as dispositional properties</figcaption>
 
 Powers bundled together often constitute some natural and ubiquitous formations. For example, if something repels electrons and attracts protons, then it's probably an electron. If something emerges in the presence of oxygen and a spark, can heat other things and dies down in the absence of oxygen, it's probably fire. So if you accept powers as such, you can employ them to discover [natural kinds](https://plato.stanford.edu/entries/natural-kinds/).
 
