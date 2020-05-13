@@ -55,6 +55,7 @@ The dog might have been reacting aggressively all along; then I should have adju
 The [argument](https://www.iep.utm.edu/argument/) about Rex can look like "I've been petting that dog for several days in a row, and he hasn't ever bitten me. Thus, the dog is friendly". It's an inductive argument, since the premise - "I've been petting that dog for several days in a row" - doesn't provide _total_ support for the truth of a conclusion. For example, the dog might have been sick, hence the apathy have been taken for friendliness.
 
 Compare it with a deductive argument:
+
  - Premise 1: if it's raining now, I'll take an umbrella.  
  - Premise 2: it's raining now.  
  - Conclusion: I'll take an umbrella.  
@@ -65,7 +66,7 @@ Induction is great, we rely on it and often it serves us well. Scientific resear
 
 Let's consider a [simple induction](https://en.wikipedia.org/wiki/Inductive_reasoning#Simple_induction), a typical inductive argument:
 
-> Premise: All observed instances of A have been B.
+> Premise: All observed instances of A have been B.  
 > Conclusion: The next instance of A will be B.
 
 Let's call this inductive argument _I_.
@@ -105,3 +106,61 @@ In Necessitarianism, on the other hand, the Laws of Nature govern the World, and
 
 There are two different kinds of this necessity. From the Nomists point of view, this relation is [external](https://plato.stanford.edu/entries/relations/), that is, it's independent of objects' properties; in other words, it's not fixed by its properties. For example, the fact that  I'm ten meters away from some tree is not defined by [intrinsic](https://plato.stanford.edu/entries/intrinsic-extrinsic/) properties of mine. From this perspective, an electron repels other electrons because there is an external guidance that makes them act the certain way. On the contrary, from the Powerist view, an electron repels other electrons because of an intrinsic dispositional property, namely "repelling other electrons". Thus, in Powerism, the Laws of Nature are grounded in dispositional properties.
 
+## Neo-Humeism
+Neo-Humeism is a combination of Regularity theory and Categoricalism. In other words, Neo-Humean worldview is categorical properties spread over the spacetime, mutating in unpredictable ways. The world is not governed by anything, or anyone. Laws of Nature just describe the world as it is, and there is no chance that we can ever discover them. Even though some causal relations hold for ages, nothing makes them do so in the future, because the Uniformity Principle is not justified. For example,  two billiard balls don't need to bounce away when colliding, though, most probably, they will. The fact that they have been doing this all along is described with a special term "constant conjunction", which can be read like "there is no physical necessity in balls bouncing away after collision, though it happens time and again".
+
+![David Hume](/images/causation/David_Hume.jpg)
+<figcaption>David Hume</figcaption>
+
+Its main advantage is ontological simplicity. There are no necessary causal relations like in Necessitarianism.
+
+The main objection stems from Scientific Realism. It's the view that we do possess some knowledge about Nature and its laws. That knowledge doesn't depend on our specific scientific practices or our choice of what we call a good theory; it is imperative: the world _must_ be the specific way.
+
+Induction rejection raises the second objection. It's been a huge part of the scientific method -  empiricism, to be precise. Given an apparent success of science, how comes that inductive reasoning is not trustworthy?
+
+## Powerism
+Powerism is a combination of two views: Dispositionalism, which postulates that dispositional properties are fundamental, and Necessitarianism, which says that the Laws of Nature don't just describe the World, but govern it. Moreover, they can't fail in doing so. In other words, those Laws are necessary.
+
+Powerist folks use a special lingo. Active power is a cause. Some object possesses an active power when it's able to induce a certain kind of change in other things. Passive power is an effect. An object possesses a passive power when it's disposed to undergo a specific change under specific circumstances.
+
+[POWERS AS ACTIONS]
+
+[POWERS AS DISPOSITIONAL PROPERTIES]
+
+Powers bundled together often constitute some natural and ubiquitous formations. For example, if something repels electrons and attracts protons, then it's probably an electron. If something emerges in the presence of oxygen and a spark, can heat other things and dies down in the absence of oxygen, it's probably fire. So if you accept powers as such, you can employ them to discover [natural kinds](https://plato.stanford.edu/entries/natural-kinds/).
+
+### Advantages
+First, Powerism goes in accordance with experimental science. Instead of simply watching categorical properties and their constant conjunctions, Powerists build knowledge. They rely on the scientific method: pose a hypothesis, carry out series of experiments, analyze results and draw a conclusion which either supports or weakens previous belief. That's the way the Laws of Nature emerge.
+
+Second, Powerists can explain a causation direction with causal relation, which is grounded in fundamental dispositional properties. Fire has an active power to heat anything; water has a passive power to boil when heated. Hence, when both are put together, fire is a cause of heating water. Water boiling is an effect. Besides, because of Powerists' view of the Laws of Nature, this directed cause-effect relation is necessary and must be exactly the way it is. It can't cease to exist or change its direction.
+
+### Objection
+We can say that some events are caused by absences. For example, an absence of water causes a plant to die. The same way we can say that some events cause the absence of something. It's a typical case of prevention. For example, vaccination causes the absence of - in other words, prevents - a disease.
+
+The problem here is that Powerists have to attribute powers to absences. But absences, by definition, don't exist, and hence they can't be attributed any powers. Hence, they can't form causal connections.
+
+Powerists can either deny negative causation phenomena or say that it's totally fine to attribute powers to absences, but the general view is that negative causation can't be eliminated entirely. That is the cost of Powerism.
+
+## Conclusion
+I've outlined two main perspectives on the nature of causation: Powerism and Neo-Humeism. The view on properties and the Laws of Nature is what differentiates them; both differences are grounded in one's position on the problem of induction.
+
+[INDUCTION: JUSTIFIED, AND OTHERWISE]
+
+In short, Powerism is about causal relations grounded in dispositional properties, which are necessary because the Laws of Nature say it can't be otherwise. Neo-Humean worldview is categorical properties spread over the spacetime, where causation takes a weaker form known as "constant conjunction", because the Laws of Nature don't govern the world, but just describe it, ready to change.
+
+## Further reading
+It's not an exaggeration to say that this topic is huge.
+
+If you're interested in a thorough analysis of dispositions, take a look at [this entry](https://plato.stanford.edu/entries/dispositions/).  
+If you want to take a really close look at the metaphysical structure of causation, [here is a good source](https://plato.stanford.edu/entries/causation-metaphysics/). Diving even deeper, here is a comprehensive description of causal relata -- [events](https://plato.stanford.edu/entries/events/).  
+[Ability](https://plato.stanford.edu/entries/abilities/), [intention](https://plato.stanford.edu/entries/intention/) and [action](https://plato.stanford.edu/entries/action/) are all very close to _power_, though they're human-centric and belong to the philosophy of mind area.
+
+Wikipedia has a nice introduction in an [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning). Differences between inductive and deductive arguments, along with descriptions of each one are outlined [here](https://www.iep.utm.edu/ded-ind/).  
+A deep dive into the problem of induction and its major possible solutions can be found [here](https://plato.stanford.edu/entries/induction-problem/).  
+One of the most widely-known mathematical applications of induction is [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem), which, in turn, is the foundation of [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics) and [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference).
+
+You can find deep investigation of the Laws of Nature [here](https://plato.stanford.edu/entries/laws-of-nature/) and [here](https://www.iep.utm.edu/lawofnat/). Internet Encyclopedia of Philosophy, as usual, explains thing in simpler terms comparing to Stanford Encyclopedia of Philosophy.
+
+Great introduction into the scientific method can be found on [Wikipedia](https://en.wikipedia.org/wiki/Scientific_method).
+
+Last but not least, check out chapter three of [Metaphysics: The Fundamentals](https://www.amazon.com/Metaphysics-Fundamentals-Philosophy-Book-ebook-dp-B00P2FX2KI/dp/B00P2FX2KI).
