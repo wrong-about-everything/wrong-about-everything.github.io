@@ -2,7 +2,7 @@
 layout: post
 title: Causation. Properties and the Laws of Nature
 tags: [causation, properties, the laws of nature]
-published: false
+published: true
 ---
 # Causation: Properties and the Laws of Nature
 
