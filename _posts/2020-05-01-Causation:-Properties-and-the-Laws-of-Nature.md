@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Causation. Properties and the Laws of Nature
-tags: [causation, properties, the laws of nature]
+title: "Causation: Properties and the Laws of Nature"
+tags: [causation, properties, the laws of nature, induction, abstraction]
 published: false
 ---
 
-To be honest, I really struggled with the title. There are quite a few topics covered here, all of them are interconnected somehow, but which one is central? Finally, I came up with the one you see above. This post is about causation, and there are two major views on that. Both of those views stand upon two major topics: properties and the laws of nature.
+To be honest, I really struggled with the title. There are quite a few topics covered here, all of them are interconnected somehow, but which one is central? Finally, I came up with the one you see above. This post is about causation, and there are two major views on that. Both of those views stand upon two major topics: properties and the laws of nature. Your stance on those topics, in turn, depends on how you perceive induction.
 
 ## Categorical and Dispositional properties
 ### Categorical properties
 There is an apple in front of me right now. It's red. This property, "being red", describes this apple as it really is, not as it could be upon some conditions. This kind of properties is called categorical.
 
 ![This apple just is red](/images/causation/01_categorical_property.jpg)
-<figcaption>This apple just is red. Photo by [an_vision](https://unsplash.com/@anvision?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/apple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
+<figcaption>This apple just is red</figcaption>
 
 Now consider two billiard balls. They are at the table, lying still. "Being still" is a categorical property. Now imagine that they collide. What would happen? Your experience probably tells you that they would bounce away, which is, most probably, true. But why is it so? If you're all into categorical properties, you would like to explain this behavior through the way those balls are. Your best bet might be to appeal to the specific way its molecular structure is. Categoricalist naturally prefers descriptive vocabulary instead of prescriptive. For example, categoricalist won't say that the balls are bouncy. This phrase implies that they _need_ to bounce away when colliding. It implies a necessary causation: if the balls collide, they will bounce away. They simply don't have other options.
 
 ![What if the cue won't hit the ball? How would we know that the balls are bouncy?](/images/causation/02_dispositional_property.jpg)
-<figcaption>What if the cue won't hit the ball? How would we know that the balls are bouncy? Photo: [C. Z. Shi](https://unsplash.com/@skulkingfaux?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/billiard-balls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
+<figcaption>What if the cue won't hit the ball? How would we know that the balls are bouncy?</figcaption>
 
 And what if those balls have never collided so far, and never will? Then "being bouncy" does not describe the world as it is. Instead, it describes it as it could be upon specific conditions. In other words, it's not a categorical property. What is it then?
 
@@ -105,6 +105,9 @@ In Necessitarianism, on the other hand, the Laws of Nature govern the World, and
 
 There are two different kinds of this necessity. From the Nomists point of view, this relation is [external](https://plato.stanford.edu/entries/relations/), that is, it's independent of objects' properties; in other words, it's not fixed by its properties. For example, the fact that  I'm ten meters away from some tree is not defined by [intrinsic](https://plato.stanford.edu/entries/intrinsic-extrinsic/) properties of mine. From this perspective, an electron repels other electrons because there is an external guidance that makes them act the certain way. On the contrary, from the Powerist view, an electron repels other electrons because of an intrinsic dispositional property, namely "repelling other electrons". Thus, in Powerism, the Laws of Nature are grounded in dispositional properties.
 
+At this point, you might notice that two natural groupings are formed, depending on your take on induction: whether it's justified, or not.
+![Induction: justified, and not](/images/causation/induction_justified_and_not.jpg)
+
 ## Neo-Humeism
 Neo-Humeism is a combination of Regularity theory and Categoricalism. In other words, Neo-Humean worldview is categorical properties spread over the spacetime, mutating in unpredictable ways. The world is not governed by anything, or anyone. Laws of Nature just describe the world as it is, and there is no chance that we can ever discover them. Even though some causal relations hold for ages, nothing makes them do so in the future, because the Uniformity Principle is not justified. For example,  two billiard balls don't need to bounce away when colliding, though, most probably, they will. The fact that they have been doing this all along is described with a special term "constant conjunction", which can be read like "there is no physical necessity in balls bouncing away after collision, though it happens time and again".
 
@@ -147,7 +150,7 @@ I've outlined two main perspectives on the nature of causation: Powerism and Neo
 
 [INDUCTION: JUSTIFIED, AND OTHERWISE]
 
-In short, Powerism is about causal relations grounded in dispositional properties, which are necessary because the Laws of Nature say it can't be otherwise. Neo-Humean worldview is categorical properties spread over the spacetime, where causation takes a weaker form known as "constant conjunction", because the Laws of Nature don't govern the world, but just describe it, ready to change.
+Just to reiterate, Powerism is about causal relations grounded in dispositional properties, which are necessary because the Laws of Nature say it can't be otherwise. Neo-Humean worldview is categorical properties spread over the spacetime, where causation takes a weaker form known as "constant conjunction", because the Laws of Nature don't govern the world, but just describe it, ready to change.
 
 ## Further reading
 It's not an exaggeration to say that this topic is huge.
