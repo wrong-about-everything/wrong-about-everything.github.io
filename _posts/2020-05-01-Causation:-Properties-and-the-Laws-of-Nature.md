@@ -148,8 +148,6 @@ Powerists can either deny negative causation phenomena or say that it's totally 
 ## Conclusion
 I've outlined two main perspectives on the nature of causation: Powerism and Neo-Humeism. The view on properties and the Laws of Nature is what differentiates them; both differences are grounded in one's position on the problem of induction.
 
-[INDUCTION: JUSTIFIED, AND OTHERWISE]
-
 Just to reiterate, Powerism is about causal relations grounded in dispositional properties, which are necessary because the Laws of Nature say it can't be otherwise. Neo-Humean worldview is categorical properties spread over the spacetime, where causation takes a weaker form known as "constant conjunction", because the Laws of Nature don't govern the world, but just describe it, ready to change.
 
 ## Further reading
