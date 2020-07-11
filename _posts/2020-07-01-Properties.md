@@ -237,5 +237,78 @@ Generally, realism is a view that accepts that Universals exist. Part of realist
 ### Platonism
 Platonism is arguably a contemporary version of Plato’s views, though it’s not completely clear what Plato meant when described his views. We can say that both views postulate the existence of a transcendent entity which is out of space and time: you can’t see it, you can’t touch it, you can’t interact with it in any way (metaphysical way of saying it is that they are [causally inert](https://wrong-about-everything.github.io/Causation-Properties-and-the-Laws-of-Nature/)). This entity is called a Universal.
 
-![An abstract singular term, a predicate, and a general term denoting the same property which denotes concrete objects](/images/properties/abstract_singular_term_predicate_and_general_term_denote_a property_which_denotes_concrete_objects.jpg)
-<figcaption>An abstract singular term, a predicate, and a general term denoting the same property which denotes concrete objects</figcaption>
+![Platonistic Universal](/images/properties/platonistic_universal.jpg)
+<figcaption>Platonistic Universal</figcaption>
+
+Plato has described it as an “idea”, or a “perfect Form” of something. His train of thought has led him to what we now know as a “One over Many argument”. It goes like the following. Say I have a red apple, a red firetruck, and a red rose. These objects are clearly similar in a certain way. Hence they have something in common, and the “redness” property seems to be exactly that. Thus we can conclude that redness exists. But despite this example, it seems that both Platonists and Extreme Realists tend to prefer Universals like APPLE-ness, instead of RED-ness, SWEET-ness, and HAVING_WEIGHT_OF_ABOUT_250_GRAMS.
+
+The way objects possess properties seems to differentiate Platonism from Extreme Realism. Plato thought that objects participate in Universals, and Platonists consider that this way of thinking implies a causal relation between an object and a Universal. They regard Plato's view of Universals such that they are responsible for an object having its nature. In practical terms, it means that the APPLE-ness Universal is an apple itself, or RED-ness Universal is itself red. Contemporary Platonist's view is that objects *exemplify*, or *instantiate*, Universals. This perspective implies that Universals are in no way responsible for an object to have its character; instead, it is a fundamental, primitive, unanalyzable exemplification relation which is in charge. Platonism, unlike Plato's Extreme Realism, asserts that the APPLE-ness Universal is not an apple, and the RED-ness Universal is not red. Thus, Platonists answer the question "Why is this apple red?" not the way Extreme Realists do. Extreme Realists' answer would be "Because it participates in the RED-ness Universal, or Form, which is red itself", and Platonists' answer goes like "This apple is red because it exemplifies (or, is an example of) the RED-ness Universal".
+
+In both views, a red apple itself doesn't possess any unique distinct entity accounting for its color. A perfect Form and participation relation is all there is in Extreme Realism, and a Universal and exemplification relation is all there is in Platonism.
+
+#### Objections
+##### Precaution
+We all have some beliefs. For example, talking about software development, I believe that the way you approach domain decomposition in some project, is way more important than the programming language you use. Why? Because, in my opinion, this path at least has a chance to make further maintenance efforts a bit less of a nightmare. Why? Because it makes program code aligned with abstractions operated upon in business realm, and, in turn, leads to a palatable fact that we, developers, don’t have an unnecessary cognitive load when translating real-life user stories into code. The absence of this cognitive barrier is what distinguishes easy-to-maintain code and hard-to-maintain code. Why? I don’t know. I just believe this is so.
+
+Arguing against beliefs is not easy; arguing against fundamental beliefs is almost impossible. Those basic beliefs are by definition [the very first turtle](https://en.wikipedia.org/wiki/Turtles_all_the_way_down) holding everyone else. There is no logical justification for holding them. You take some belief as fundamental at some point in your life, probably because your overall experience has led to believing so. And no one seems to be willing to change them. Bad news: this type of argument is the only one making sense. Good news: there are some other, less demanding ways.
+
+One of them goes like the following. First, as an objector, take your beliefs as superior to anyone else’s. Then, point at someone else’s belief which is based on something you don’t believe to be true. Finally, claim that it’s wrong because it’s not based on *your* beliefs. Voilà, congratulations: argument won.
+
+Sadly, you can see such kinds of arguments in metaphysics realm. Some of them are claimed by authoritative sources, thus becoming famous enough to be aware of. And some of them are represented here in this post. I won't explicitly mark them. Try to figure out yourself. Ask yourself questions. Find the answers. At the end of the day, you'll understand way more than when you just started.
+
+##### Bradley's regress
+It’s an umbrella term for a bunch of related problems. All of them boil down to the fact that any appeal to relation to relate an object with a property will require further relation. Thus, an argument ends up in a vicious circle.
+
+The first problem from this series was postulated by Plato as an objection to his own view, Extreme Realism. It went like the following. If an apple participates in a RED-ness Universal, then the RED-ness Universal is itself red — because of the way Plato perceived a participation relation. If so, there must be another Universal, RED-ness-2, which grounds the redness of the RED-ness Universal. And so on. This regress is [vicious](https://plato.stanford.edu/entries/infinite-regress/).
+
+![Third man argument](/images/properties/third_man_argument.jpg)
+<figcaption>Third man argument</figcaption>
+
+The contemporary version of Bradley's regress concerns any kind of relation. Let's say that an object *a* is *f*, or a exemplifies F-ness.
+
+![a is f in virtue of exemplifying F-ness](/images/properties/a_is_f_in_virtue_of_exemplifying_F-ness.jpg)
+<figcaption>*a* is *f* in virtue of exemplifying F-ness</figcaption>
+
+Take a more close look at the last sentence, "a exemplifies F-ness". There is a subject, "a", referring to an object *a*, and a predicate "exemplifies F-ness", which, as mentioned earlier, denotes a property. A property which is inherited by more than one thing is called a relation, or a polyadic property. In our case, *exemplifies* is a dyadic property, since it requires two relata: an object *a* and a Universal F-ness. Let's call it EXEMPLIFIES-ness, which is, according to Realism, a Universal. Thus, this Universal must be exemplified: "a exemplifies "exemplifies F-ness"".
+
+![a exemplifies F-ness in virtue of both exemplifying EXEMPLIGIES-ness](/images/properties/a_exemplifies_F-ness_in_virtue_of_both_exemplifying_EXEMPLIGIES-ness.jpg)
+<figcaption>*a* exemplifies F-ness in virtue of both exemplifying EXEMPLIGIES-ness</figcaption>
+
+Since *a* exemplifies EXEMPLIFIES-ness is a relational property, there must be another Universal exemplified by both *a* and EXEMPLIFIES-ness: EXEMPLIFIES-EXEMPLIFIES-ness.
+
+![a exemplifies EXEMPLIGIES-ness in virtue of both exemplifying EXEMPLIFIES_EXEMPLIGIES-ness](/images/properties/a_exemplifies_EXEMPLIGIES-ness_in_virtue_of_both_exemplifying_EXEMPLIFIES_EXEMPLIGIES-ness.jpg)
+<figcaption>*a* exemplifies EXEMPLIGIES-ness in virtue of both exemplifying EXEMPLIFIES_EXEMPLIGIES-ness</figcaption>
+
+See the pattern? We're in a vicious circle again.
+
+Multiple attempts have been made to avoid this uncomfortable regress. They are either implausible, or boil down to treating instantiation relation as a brute fact.
+
+##### Paradox of self-instantiation -a branch of Russel's paradox
+This paradox shows that properties can't be expressed by predicates in *every* case. Let's consider it in a bit greater detail.
+
+First, it seems that some properties can exemplify other properties. A vivid example is that any property seems to exemplify a "being a property" property. Hence, properties are self-instantiating.
+Second, for any property *Q* there is a negative property, *non-Q*. Thus, there is a property of "not instantiating itself", let's call it *NII*. Let's call the opposite property, "instantiating itself", *II*.
+
+The paradox is that *NII* is logically impossible. If *NII* doesn't instantiate itself, then it instantiates "not instantiating itself", which we called *NII*. Hence, *NII* instantiates *NII*, that is, *NII* instantiates itself - a contradiction to our initial assumption. OK, let's assume that *NII* instantiates itself. This means that *NII* instantiates a property of "instantiating itself". This, in turn, means that *NII* doesn't instantiate a property of "not instantiating itself", or, put another way, *NII* doesn't instantiate *NII*. Thus we conclude that *NII* doesn't instantiate itself, which is a contradiction to our prior assumption, that *NII* instantiates itself.
+
+There are two major ways to resolve this paradox. The first one is to reject the assumption that if an object *a* doesn't instantiate property F, then it instantiates non-F. The second boils down to a properties hierarchy. Objects instantiate first-order properties. They, in turn, instantiate second-order properties. Thus, there is no such thing as self-instantiating property.
+
+##### Epistemological concern, or strangeness objection
+Predicate Nominalists don’t find Realism compelling: they reject the conclusion of “One over Many” argument in particular and deny the existence of Universals in general. As I outlined at the beginning of this post, they show that they lack explanatory power. Besides, Universals have known epistemological concerns indeed, since Platonistic Universals are causally inert; how can we get to know them then? How can we even think of them? What are they, anyway? To say the least, they’re quite strange creatures. So strange that they engage the minds of philosophers for about two and a half thousand years; this problem even has a special name: it’s commonly referred to as the Problem of Universals.
+
+But they are about the World's ontology. That is, Platonism as part of Metaphysics, tries to discover what there is, what the World consists of, and why, instead of how we can get to know it. Four hundred years ago Giordano Bruno was executed for believing that the Earth was not a center of the Universe. Higgs boson was introduced in a theory of why particles have mass in 1964, but it was first detected only in 2012. Right now, dear reader, you might wonder why you're still reading this nonsense about Universals. We can just wait though.
+
+### Immanent Realism
+This position has its roots in Aristotle’s views and is also known as Strong Realism. It posits that Universals exist, but they are not transcendent entities existing outside space and time. Instead, Universals exist in the physical world. For example, in this view, redness exists in a red apple as its part. After all, if you look at an apple, you’ll see that it’s red. If you accept redness as such, it seems plausible that it’s part of an apple, which is right in front of you, in spacetime. Consequently, you can conclude that its redness, in turn, is in spacetime as well, and that it’s not a transcendent entity that Platonists talk about.
+
+![RED-ness Universal existing in the physical world as part of each red apple](/images/properties/RED-ness_Universal_existing_in_the_physical_world_as_part_of_each_red_apple.jpg)
+<figcaption>RED-ness Universal existing in the physical world as part of each red apple</figcaption>
+
+Immanent, or Strong, Realist doesn't have to introduce an exemplification relation. There are just objects and properties (which are Universals), and those Universals are not instantiated; instead, they inhere in physical objects, and they can't exist uninstantiated. For some, this sort of Universals might seem less strange than transcendent ones.
+
+Universals in both versions are still multiply located, they still ground similarity and give a semantic account to a natural language.
+
+#### Objections
+Just like Platonism Universals, being abstract entities, are strange for Immanent Realists, the fact that one thing exists in several places at the same time is strange for Platonists. It seems that it’s a matter of initial beliefs and worldview, so this one doesn’t count as an objective rejoinder.
+
+What exactly is property possession? In Platonism, it’s an exemplification relation. What is it in Immanent Realism? Most of the metaphysicians endorsing this view wouldn’t say that there are any relations in property possession since they want to escape Bradley’s Regress. Instead, they say that an object and a Universal are just linked together somehow in a non-relational way. Actually, the same can be said of Platonists, who mostly accept an instantiation relation as unanalyzable.
