@@ -2,7 +2,7 @@
 layout: post
 title: Properties
 tags: [properties]
-published: false
+published: true
 ---
 
 There are things, and there are ways those things are. Those "ways" are called attributes, traits, characteristics, or properties. Are those properties distinct entities, like my mobile phone or an apple in your refrigerator? Or are they just a way we talk or think of things?
