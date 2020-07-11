@@ -312,3 +312,109 @@ Universals in both versions are still multiply located, they still ground simila
 Just like Platonism Universals, being abstract entities, are strange for Immanent Realists, the fact that one thing exists in several places at the same time is strange for Platonists. It seems that it’s a matter of initial beliefs and worldview, so this one doesn’t count as an objective rejoinder.
 
 What exactly is property possession? In Platonism, it’s an exemplification relation. What is it in Immanent Realism? Most of the metaphysicians endorsing this view wouldn’t say that there are any relations in property possession since they want to escape Bradley’s Regress. Instead, they say that an object and a Universal are just linked together somehow in a non-relational way. Actually, the same can be said of Platonists, who mostly accept an instantiation relation as unanalyzable.
+
+## Nominalism
+Nominalism about properties claims that Universals don't exist. I've already mentioned Predication Nominalism - a version of Nominalism taken to the extremes, where objects' character is ungrounded - unless you consider a fact that a predicate can be applied to a subject as grounding.
+
+### Resemblance Nominalism
+In this version of Nominalism, resemblance relations are fundamental. That is, the certain way that red apples, red firetrucks, and red roses resemble grounds the fact that all three are red. In other words, apples are red in virtue of resemblance relation held between all red things. So, answering the question "What are shareable properties in Resemblance Nominalism?", we can reply that they are classes, or sets, of objects that resemble. But, once again, those classes are secondary; resemblance relations are fundamental.
+
+But how to discover those resemblance relations? Look for the ways different objects resemble more or differently. Take a look at the image below:
+
+![Resemblance classes are those whose participants resemble each other more or differently than anything outside the class](/images/properties/resemblance_classes_are_those_whose_participants_resemble_each_other_more_or_differently_than_anything_outside_the_class.jpg)
+<figcaption>Resemblance classes are those whose participants resemble each other more or differently than anything outside the class</figcaption>
+
+In an image above, red dog and white dog resemble each other differently than anything else, hence they form resemblance class. So do a red cat and a white cat. As a result, we can refer to those classes as properties “being a dog” and “being a cat”, which, once again, derive from the particular way some objects resemble. On the other hand, a red dog and a red cat resemble each other differently too, as well as a white dog and a white cat. Thus we have two more classes which denote properties that we can call as “being red” and “being white”.
+
+One thing to be noted here. Resemblance relations in this version of Nominalism are not full-blown metaphysical relations which actually exist. When Resemblance Nominalist says that a resembles b, there are not three things in her ontology: a, b, and resemblance relation. There are only two of them: a and b. A resemblance relation is grounded in the fact that we can say that a and b resemble, which makes this version of Nominalism resemble (pun intended!) Predicate Nominalism. But in the latter, each resemblance is unique, which makes the ontology bloated. Besides, in Resemblance Nominalism, we can refer to resemblance classes as properties, and there is no anything similar in Predicate Nominalism.
+
+#### Problems with Resemblance Nominalism
+##### Accidental coextension objection
+Consider the property of “having a heart”. Each living organism that has a heart also has kidneys (I’m not an anatomist though, please forgive me if I’m mistaken. Anyways, for the sake of the argument, let’s assume this is the case). Thus, two properties — “having a heart” and “having kidneys” — always go together. It means that corresponding sets contain the same elements. But, by definition of “set”, it means that they are identical, that is, there is only a single set. Nevertheless, it seems that those two are distinct properties. At least, I find it possible that it can happen that someone will have one property, but not the other. This problem is known as the problem of accidental coextension, and I already outlined it briefly in the context of properties' individuation.
+
+##### Hochberg-Armstrong objection
+The worry is that in Resemblance Nominalism, one fact can be a truthmaker for more than one proposition. For example,
+
+ 1) *p1* and *p2* are absolutely similar particulars;
+ 2) *p1* and *p2* are distinct.
+
+In Resemblance Nominalism, the truthmaker for those two propositions is the fact that both belong to the same class. I can denote this fact as *{p1, p2}*. The problem is that the first item can be false: *p1* and *p2* can be not absolutely similar, but still resemble each other more than anything else. In this case, the truthmaker remains the same: *{p1, p2}*. So it seems natural that two relations, distinctness, and resemblance, require their own truthmakers. But it can’t be achieved in Resemblance Nominalism; those two are deeply intertwined with each other.
+
+##### What is a resemblance relation?
+What makes resemblance relation a resemblance relation? If we take a resemblance relation as some kind of property, then we should find the resemblance relations that ground it, since resemblance relations are the basis for properties in Resemblance Nominalism. In other words, a resemblance relation between resemblance relations is required, and this is a vicious regress. But Resemblance Nominalism protected itself from this kind of problem. As I’ve mentioned above, resemblance relations are not full-fledged, distinct metaphysical entities which should be analyzed. As Resemblance Nominalists say, those relations are not reified, that is, there are simply no such entities which can resemble. This reduces an explanatory power but saves from uncomfortable regress.
+
+### Trope Nominalism
+This version of Nominalism is very different from anything else. As a short recap, properties in Realism are Universals, whether transcendent or immanent. In Resemblance Nominalism, a property is a derivative concept represented as a set (the primary one is a resemblance relation). In Trope Nominalism and Trope Theory in general, properties are physical objects called tropes. They are objects in a sense no different than an apple or a table are objects. What makes those objects special and generally not-so-easy to conceive of is the fact that their character is single-dimensional. Take an apple, for example. It’s sweet, red, and crispy. If I’m a Realist, I say that it is such in virtue of instantiating (in Platonism view) or sharing (in Immanent Realism view) the following Universals: SWEET-ness, RED-ness, and CRISPY-ness. If I’m Trope Theorist, I say that an apple has its properties because it consists of a sweet-trope, a red-trope, and a crispy-trope.
+
+![Apple consisting of tropes](/images/properties/apple_consisting_of_tropes.jpg)
+<figcaption>Apple consisting of tropes</figcaption>
+
+Those tropes do not possess character; they *are* characters, and each of those characters is single-dimensional. Thus, each trope is effectively reduced to a single property its character is grounded in: red-trope *is* a red property, sweet-trope *is* a sweet property, and crisp-trope *is* a crisp property.
+
+#### Advantages over Resemblance Nominalism
+Now, let's see where Trope Theory (not only its Nominalistic version) beats Resemblance Nominalism. First, it solves a companionship problem. It's as simple as having two distinct tropes: having-a-heart-trope and having-a-kidney-trope. But conjuring up an image of what actually a trope is, not so much.
+
+Hochberg-Armstrong objection doesn't apply to Trope Theory. Objects resemblance is "grounded" in a specific set of tropes. If those objects resemble a bit differently, there is a trope that accounts for that difference. That is, for each way two objects can resemble, there is a unique set of tropes that "grounds" that resemblance. To wrap it up, objects resemblance is grounded in tropes sets; objects distinctness is grounded in the set of those objects, which, in turn, is grounded in a fact they are actually distinct.
+
+As a general advantage, not only over Resemblance Nominalism, is a nice fact that tropes are objects. That means that they can do two things. First, they can serve as relata of a causal relation, which can give a deeper account of the [nature of causation](https://wrong-about-everything.github.io/Causation-Properties-and-the-Laws-of-Nature/). Second, they can act as [truthmakers](https://wrong-about-everything.github.io/The-Truth/).
+
+#### Problems with Trope Nominalism
+##### What grounds tropes resemblance?
+As the song goes, it's not always rainbows and butterflies. The major problem is giving an account of tropes' resemblance.
+
+The red of my apple is quantitatively distinct from the red of a firetruck, but qualitatively they are similar. We can think of a normal, customary object as a bundle of tropes. Thus, in Resemblance Nominalist's view, two objects resemble because both have qualitatively identical tropes. But what makes two tropes similar? That's where things get ugly.
+
+In the first account, tropes' resemblance is not grounded in resemblance relation. It's a brute fact. And this view poses a problem for Trope Theory. It rejects Universals, claiming that they are strange, but comes up with tropes which can't give an account to generality.
+
+The second account goes somewhat in the spirits of Resemblance Nominalism. It states that two tropes are similar in virtue of resemblance tropes. But, as stated earlier, this results in an unpalatable regress.
+
+![Resemblance tropes regress](/images/properties/resemblance_tropes_regress.jpg)
+<figcaption>Resemblance tropes regress</figcaption>
+
+A common response to any vicious regress is to postulate something as a brute fact, the one that doesn't require further explanation. Here, you can do the same thing. You can claim that resemblance tropes are not needed, and that resembling tropes simply resemble. This move, as usual, sacrifices an explanatory power but saves from regress.
+
+Just in case, let me make it clear: Trope Theory is not confined exclusively in Nominalism. It’s orthogonal to Realism-Nominalism distinction. That means that not only Nominalists but Realists as well can be Trope Theorists. And by the way, can you guess what grounds trope resemblance in Realism view? Yep, it’s a Universal. Thus, Universals act as both characterizers and unifiers: that is, they both characterize objects and ground their resemblance. Tropes ground an object’s character, but they are in a weaker position when we look for ways to explain resemblance. If we take a Resemblance Nominalism stance though, we can claim that unifiers are resemblance classes.
+
+##### Color-thickening dilemma
+If tropes are single-charactered, so does a red-trope. But any colored object has a shape. So a colour-trope becomes at least two-dimensional: it has both a colour and a shape.
+
+##### What are tropes, anyway?
+Last but not least — personally, I’m struggling to comprehend what tropes are. I just can hardly imagine them. Of course, I have some image in my head, but let’s be honest: can you show exactly what is an apple-shape-trope and how it’s different from an apple itself?
+
+Despite those cons, tropes are the big thing these days, and we'll dive a bit deeper into it in the next post on objects.
+
+## Conceptualism
+
+Conceptualism is a view which admits the existence of properties, but they exist neither as mind-independent entities such as Universals, nor Resemblance classes, nor tropes. Instead, they are mind-dependent entities, or concepts, like ideas in our heads. As usual, a litmus-test-kind of a question to understand someone’s views goes along the lines of “Why is this apple red? What makes those apples similar?”. In case of Conceptualism, an entity grounding both similarity and property is an idea of redness.
+
+### Objections to Conceptualism
+First, minds of all humans are different. A little child can misapply the concept of redness, confusing it with something else. Besides, a colour-blind man's concept of redness is different from a concept of redness of a person without colour blindness. This whole thing would work out if the human mind was some sort of shared entity, like Universals in Realism. But it's more akin to some kind of wannabe-resembling-tropes, but whose resemblance is not guaranteed. So it seems that the human mind fails both to ground a property and ground objects' resemblance.
+
+This point can be challenged by claiming that only those human minds count which apply a concept correctly. But I can ask: what makes a concept correct? Treating this as a brute fact smells ostrich. If correct concepts should share a property, it turns a Conceptualist to Realist. If correct concepts should resemble somehow, we land in Resemblance Nominalism bay.
+
+Second, it seems that there are some objective truths. For example, Mount Everest is the highest mountain above sea level. Dogs don't like cats. Cherry blossoms in spring. All of them would hold even if mankind didn't exist, and this seems natural. Conceptualists though claim otherwise.
+
+The third objection is that Conceptualists probably confuse two things: properties and ideas about them. When I say that my apple is red, I'm talking about an apple's property, not about my idea of that property. So it seems that Conceptualism isn't even supposed to ground properties: it's about something else entirely.
+
+## Concluding a pessimistic postscript
+
+It seems that the problem of what a property actually is and what grounds the similarity of distinct objects can’t be solved. There are effectively two major but equally non-satisfying courses of action here: either postulate some magic entity which does all the dirty job (Universals) or put anything you can’t explain as a brute fact. Probably I should have written this at the beginning of this post, but in that case, I’d deprive you of the pleasure of reading it. Sorry if you didn’t like it.
+
+## Further Reading
+Probably, properties is one of the most hardcore metaphysical topics. If you’ve made it this far, congratulations. As usual, I’ve outlined only the most prominent and fundamental things here, and there are oh so many topics you can start discovering.
+
+First, no wonder that both [utm](https://www.iep.utm.edu/properties/) and [sep](https://plato.stanford.edu/entries/properties) have great entries about properties.
+
+All prominent types of properties distinction have a special entry at sep. Please enjoy: [essential-accidental](https://plato.stanford.edu/entries/essential-accidental/), [intrinsic-extrinsic](https://plato.stanford.edu/entries/intrinsic-extrinsic/), [determinate-determinables](https://plato.stanford.edu/entries/determinate-determinables/).
+
+For more about [semantic theories](https://plato.stanford.edu/entries/meaning/#SemaTheo) and [intensional logic](https://plato.stanford.edu/entries/logic-intensional/), you need look no further than sep.
+
+Talking about specifics, [one of the most comprehensible posts about Universals](https://www.iep.utm.edu/universa/) is on utm. Sep has a [great entry on Realism](https://plato.stanford.edu/entries/realism/), and especially I’d love to mention an [entry on Platonism](https://plato.stanford.edu/entries/platonism/). It covers not only Platonism actually, but other views as well, and it’s not only about properties but about other metaphysical items either, such as propositions and numbers. It has a great description of Immanent Realism, as well as other views, and the language is really comprehensible. All in all, it’s a fantastic read, really enjoyed it. One of my all-time favorites. Besides, sep has a nice historical review of [the Problem of Universal](https://plato.stanford.edu/entries/universals-medieval/).
+
+Now to problems in Realism. Sep has deep-dive entries on [Bradley’s regress](https://plato.stanford.edu/entries/bradley-regress/) and [Russel’s paradox](https://plato.stanford.edu/entries/russell-paradox/). And if you’re interested in the [nature of metaphysical relation](https://plato.stanford.edu/entries/relations/), sep has what you need.
+
+Sep again has a great overview of [contemporary Nominalism](https://plato.stanford.edu/entries/nominalism-metaphysics/). For more about tropes, [please welcome](https://plato.stanford.edu/entries/tropes/). I’ve talked about abstract objects briefly, you can find some more about them [here](https://plato.stanford.edu/entries/abstract-objects/).
+
+Although Conceptualism has fallen out of fashion lately, the fact that [Kant endorsed it](https://plato.stanford.edu/entries/kant-conceptualism/) makes it notable and worth a read.
+
+And of course, I can’t recommend highly enough a brilliant book, [The Fundamentals of Metaphysics](https://www.amazon.com/Metaphysics-Fundamentals-Philosophy-Book-ebook/dp/B00P2FX2KI/) which served me as a great introduction to this wonderful branch of philosophy.
