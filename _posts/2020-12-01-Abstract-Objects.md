@@ -25,12 +25,20 @@ Finally, we have to deal with Nominalism, or, to be precise, with one of its bra
 
 # Propositions
 I've already covered what propositions are in my post about [Truth](https://wrong-about-everything.github.io/The-Truth/), so here is a short recap. There are sentences describing mental attitudes. They represent the same pattern: A [believes OR thinks OR desires OR etc.] that P, where P is a proposition.
+
+![Proposition](/images/abstract_objects/what_is_a_proposition.jpg)
+
 The general argument about whether propositions are abstract or not largely mirrors the one regarding numbers.
-Since a proposition represents a singular term, what kind of entity does that term refer to? Can it refer to some mental entity? It's unlikely because two distinct human beings speaking different languages can believe the same thing. But what is that single thing like?
-It's even more unlikely that propositions could refer to some physical objects. Lots of them have never been tokenized in any way, that is, they've never been written down, or painted, or vocalized. On the other hand, lots of them have billions of tokens, all in different languages and dated to different times. Which one is the token that represents a proposition?
-Fictional Nominalists are in a relatively good position here. Just like with numbers, they claim that all sentences like "A [believes OR thinks OR desires OR etc.] that P" are, strictly speaking, false, because Ps are supposed to refer to propositions, but propositions, being abstract objects, don't exist. But nevertheless, fictionalists admit that colloquially speaking, they can truthfully reflect mental attitudes of their bearers.
+
+Since a proposition represents a singular term, what kind of entity does that term refer to? Can it refer to some mental entity? It's unlikely because two distinct human beings speaking different languages can believe *the same thing*. But what is *that single thing* like?
+
+It's even more unlikely that propositions could refer to some physical objects. Lots of them have never been tokenized in any way, that is, they've never been written down, or painted, or vocalized. On the other hand, lots of them have billions of tokens, all in different languages and dated to different times. Which one is *the* token that represents a proposition?
+
+Fictional Nominalists are in a relatively good position here. Just like with numbers, they claim that all sentences like "*A* \[believes OR thinks OR desires OR etc.\] that *P*" are, strictly speaking, false, because *P*s are supposed to refer to propositions, but propositions, being abstract objects, don't exist. But nevertheless, fictionalists admit that colloquially speaking, they can truthfully reflect mental attitudes of their bearers.
+
 Finally, if we're OK with admitting abstract objects' existence, the thing that different people's mental entities refer to is exactly it - a proposition, and it is an abstract object.
-Further development of the Way of Negation
+
+# Further development of the Way of Negation
 The way of negation was elaborated further. It's divided into two main criteria taking two different (not very much so, actually) views at the problem. Those perspectives cover non-spatiality and causal inefficacy.
 The non-spatiality criterion
 We can start with an understanding of abstract objects as simple as being non-spatial. Where was the cosine function last Thursday after all? This question doesn't seem to make much sense. A good example is mathematical entities. They are canonical abstract objects (at least in Platonists' camp), and they vividly illustrate the point. Cosine function has neither spatial nor temporal properties. So does number seven. In contrast, a cosine function plot I've just drawn on my office board with a marker is concrete enough. I can say where it is and how much space it occupies. Moreover, I can say where it is at any given moment of time. If tomorrow someone moves the board, I'll be able to say that my plot is in another room. And here is the question that helps to mark an abstract-concrete distinction in light of this example: "Where it is now and how much space does it occupy?" In case there is no sensible answer to this question, an object is abstract.
