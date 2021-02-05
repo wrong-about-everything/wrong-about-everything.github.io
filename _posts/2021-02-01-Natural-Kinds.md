@@ -2,7 +2,7 @@
 layout: post
 title: Natural Kinds
 tags: [natural kinds]
-published: false
+published: true
 ---
 
 # Introduction
