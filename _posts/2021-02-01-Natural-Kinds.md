@@ -41,3 +41,49 @@ But conventionalists want their classifications to be stable, too; they have epi
 
 ![](/images/natural_kinds/04_Object_identified_by_observable_properties.jpg)
 
+For example, there are a lot of electrons that physicists have been observing over the last hundred-something years. All of them have been proved to have the same properties. So, nowadays we can rest assured that if some particle has a specific trajectory and mass and thus is identified as an electron, then it has a specific charge and mass - properties that define an electron.
+
+Thus, anti-realists have to take some faint efforts towards objectiveness in their search for stability: they have to accept that some kinds are more objective than others, and this objectiveness transcends their aims and interests. And that's the point when those kinds can be seen as the natural ones. This position gets too close to realists' camp.
+
+## Naturalness vs. Interestedness
+All the views above are effectively just different marks on the naturalness-interestedness scale.
+
+![](/images/natural_kinds/05_Naturalness_Interestedness_scale.jpg)
+
+This scale reflects a fundamental contention between realists and anti-realists that is akin to a chicken-and-egg problem: are the divisions in the world truly natural, or it's just us seeing them in a certain way? Is science able to unveil mind-independent natural kinds, or it's inherently impossible because we're those who observe and classify?
+
+## Monism vs. Pluralism
+We can view those views on another plane. How many classification schemes do we have? Is there a single way to classify reality, or there are plenty of them?
+
+![](/images/natural_kinds/06_Monism_Pluralism_Scale.jpg)
+
+Generally, natural classifications tend to accept fewer schemes comparing to conventional ones. On the extreme ends of the scale, strong naturalism claims that there is a single way to classify stuff, and conventionalism allows an infinite amount of them.
+
+# What Makes a Category a Natural Kind?
+OK, if you're not an extreme conventionalist rejecting any notion of naturalness, here are the oft considered criteria of whether any given prominent category is a natural kind or not.
+
+## Category members share some natural properties
+Natural properties are those that are independent of observers. For instance, red apples would have reflected light with a wavelength corresponding to red color even if mankind hadn't existed. Very often, natural properties are taken to be intrinsic, not extrinsic, but this is arguably not always the case.
+
+Members of a natural kind have some natural properties in common. It's not a sufficient criterion though: a few people regard all the white things as belonging to a natural kind, after all. But it's commonly accepted that it's a necessary one.
+
+## Natural kinds allow inductive inference
+There are actually many forms of [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning), but here we're interested in a transition from "All **observed** *a*s are *F*" to "**All** *a*s are *F*" (in a long-standing metaphysical tradition, *a* stands for an object, and *F* stands for its property). This inductive inference can't fail, because it's reinforced by the [Laws of Nature](https://wrong-about-everything.github.io/Causation-Properties-and-the-Laws-of-Nature/#laws-ofnature). Which brings us to…
+
+## Natural kinds should participate in the Laws of Nature
+When some behavior reaches the bar of being a law of nature, it means that we're quite sure it never fails, it simply can't fail. At this point, we no longer look for new evidence to prove that law. Instead of holding [a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori), it becomes true a priori. At this level of certainty, we can step over inductive reasoning towards [deductive one](https://en.wikipedia.org/wiki/Deductive_reasoning).
+
+More often than not, it takes quite a few feedback loops before some behavior becomes a law. In the image below, a getting-to-know-iron-magnetism loop is depicted.
+
+![](/images/natural_kinds/07_Inductive_deductive_threshold.jpg)
+
+## Natural kinds should form a hierarchy with categorically distinct leafs
+
+If any two kinds overlap, then one should be a sub-kind of the other. Besides, borders between two neighboring kinds should be clear and unambiguous; otherwise, it's us who draw that line. In this case, the concept of a natural kind as a mind-independent category is threatened.
+
+![](/images/natural_kinds/08_Kind_hierarchy.jpg)
+
+## Kinds have made it into our language, and have stuck
+Look around. What do you see right now? A computer, a table, some trees, buildings. Something is man-made, something is not. Anyways, those categories are stable enough and have lots of members. That's the reason why they've stuck in our language. As soon as either of those conditions changes, the underlying concept becomes either vague or orphaned - reason enough for the corresponding word first to go out of use, and then out of existence. When was the last time you used the word "pager" by the way?
+
+# How are Natural Kinds individuated?
