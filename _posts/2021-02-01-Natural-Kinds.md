@@ -143,3 +143,28 @@ Here is how this scale looks with the different ways to individuate Natural Kind
 ![](/images/natural_kinds/Total_scale.jpg)
 
 # Natural Kind as a Metaphysical Entity
+We've seen different views on the naturalness of categories we encounter in the world. Naturalism claims that there are genuinely natural, that is, mind-independent ways to carve reality into kinds; Conventionalism claims otherwise, that all divisions are interest-driven. But none of those views says a word about whether those categories represent a distinct metaphysical entity. In other words, those views don't answer the question of whether such a thing as a kind exists. In a fancier, more metaphysical way of saying, it goes like neither Naturalism nor Conventionalism are ontologically committed.
+
+The Naturalness-interestedness scale is just one way to represent differences between Realism and Anti-realism. Another way is more metaphysical. In this context, Realism and Anti-realism -  most prominently, Nominalism -  are ontologically committed views. In other words,  they have strong opinions about what sort of entities Natural Kinds are. Without further ado, let's dive right into it.
+
+## Realism
+There are two realist accounts of Natural Kinds. The first one regards them as the same kind of Universals as the ones grounding properties, while the second - as so-called *sui generis*, or distinct, entities.
+
+### Natural Kinds as Universals
+This position, usually referred to as Reductionism, basically boils down (or reduces - hence the name) to [Realism about Universals](https://wrong-about-everything.github.io/Properties/#realism). Here is a short recap.
+
+There are two prominent positions about  Universals. The first one, called [Platonism](https://wrong-about-everything.github.io/Properties/#platonism), posits them as transcendent entities existing out of space and time. An object has properties in virtue of *instantiating* corresponding Universals. For example, there is a single RED-ness Universal, and all the red things in the world instantiate it.
+
+The other position is called [Immanent Realism](https://wrong-about-everything.github.io/Properties/#immanent-realism). It states that Universals are not out of spacetime, instead they are fully contained in objects. For instance, there are tons of red apples, red hydrants, and red firetrucks; and there is a single RED-ness Universal which is located in a physical world, within all of those red objects.
+
+Whether you're an essentialist or conventionalist, kinds are some sort of bags with properties. And since we're talking about Realism here, properties are viewed as Universals, just as Kinds themselves. Thus, Kinds end up being complex Universals; that is, Universals containing other Universals. It's hard to imagine how this can be possible in a Platonist world though. How comes that RED-ness Universal is part of both APPLE-ness and FIRETRUCK-ness Universal Kinds? Though it fits perfectly with the Immanent Realist worldview. In this account,   RED-ness Universal is wholly contained within all the things that APPLE-ness and FIRETRUCK-ness Universals are part of.
+
+One thing to be noted here. It's not mandatory (oft encountered though) to hold either realistic or anti-realistic positions about everything. One can be an anti-realist about classifications, and a realist about kinds. That is, you might consider that there is no such thing as a mind-independent, natural way to classify stuff, but at the same time, you can view those category *entities* from a realist position.
+
+### Natural Kinds as distinct entities
+The second view, notoriously held by [E. J. Lowe](https://en.wikipedia.org/wiki/E._J._Lowe_(philosopher)) and [Brian Ellis](https://en.wikipedia.org/wiki/Brian_David_Ellis), is that Natural kinds are *sui generis* entities. That is, they are neither material objects, nor abstract objects, nor sets, nor property Universals, but a completely different thing. Note that I've mentioned *property* Universals, that is, entities like RED-ness and alike. In the current account, kinds actually are a special sort of Universals, called *substantial* Universals. They have nothing to do with property Universals, they neither reduce to them nor contain them. In metaphysical lingo, this can be articulated as that substantial Universals represent an irreducible ontological category.
+
+## Nominalism
+In [Nominalism](https://wrong-about-everything.github.io/Properties/#nominalism), things are pretty much the same as with properties. Objects resembling each other in one way or another can be organized into sets. If multiple objects have a shared property of being an apple, then the resulting set is the corresponding natural kind, the apple-kind.
+
+# Ontology so far
