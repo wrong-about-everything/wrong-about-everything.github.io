@@ -168,3 +168,17 @@ The second view, notoriously held by [E. J. Lowe](https://en.wikipedia.org/wiki/
 In [Nominalism](https://wrong-about-everything.github.io/Properties/#nominalism), things are pretty much the same as with properties. Objects resembling each other in one way or another can be organized into sets. If multiple objects have a shared property of being an apple, then the resulting set is the corresponding natural kind, the apple-kind.
 
 # Ontology so far
+Everything we know of grounds on either tropes (probably with substrates, if you're into a Substratum Theory), or Universals. They are the basic building blocks of reality.  This is a level 0 in an image below. One level higher, we have more high-level concepts, namely objects, properties, and kinds.
+
+![](/images/natural_kinds/Levels.jpg)
+
+# Further Reading
+I'd start with the overview entries, the ones this post heavily relies on: no wonder, they are from [SEP](https://plato.stanford.edu/entries/natural-kinds/) and [IEP](https://www.iep.utm.edu/nat-kind/).
+
+Along with kind-object distinction, similar one is [type-token](https://plato.stanford.edu/entries/types-tokens/).
+
+I've mentioned different types of properties that the concept of natural kinds deals with closely; the most prominent are [essential](https://plato.stanford.edu/entries/essential-accidental/) and [natural](https://plato.stanford.edu/entries/natural-properties/) ones.
+
+I've given several examples from different fields, so if you like digging deeper into special philosophical branches, you can start with [Biology](https://plato.stanford.edu/entries/biology-philosophy/), [Chemistry](https://plato.stanford.edu/entries/chemistry/), and [Physics](https://www.britannica.com/topic/philosophy-of-physics).
+
+There are some more kinds other than natural and functional ones. For more, check out [this paper](https://www.jstor.org/stable/3750494).
