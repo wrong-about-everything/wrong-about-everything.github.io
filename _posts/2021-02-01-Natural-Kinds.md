@@ -87,3 +87,59 @@ If any two kinds overlap, then one should be a sub-kind of the other. Besides, b
 Look around. What do you see right now? A computer, a table, some trees, buildings. Something is man-made, something is not. Anyways, those categories are stable enough and have lots of members. That's the reason why they've stuck in our language. As soon as either of those conditions changes, the underlying concept becomes either vague or orphaned - reason enough for the corresponding word first to go out of use, and then out of existence. When was the last time you used the word "pager" by the way?
 
 # How are Natural Kinds individuated?
+## Essentialism
+The essence is an object's property of belonging to a kind it does. That's what makes an object *what it is*. For instance, an apple in front of me has the property of being an apple. If it lacked that, it would fail to be an apple. But what exactly makes it an apple? Why is something an apple and some other thing a pear? Essentialism claims that there are specific properties that are shared by specific objects, and those properties make those objects what they are. That is, to belong to a specific kind means to possess specific properties, and those properties are called essential. Essential properties are the only reason why objects are the way they are; they explain all the other properties.
+
+![Objects sharing the same set of essential properties form a Natural Kind](/images/natural_kinds/12_Electrons_forming_a_kind.jpg)
+<figcaption>Objects sharing the same set of essential properties form a Natural Kind</figcaption>
+
+For that reason, an object's essence can also be articulated as a set of its essential properties.
+
+We can claim that electrons have the following properties: having a specific charge, spin, and mass. This combination is exclusively held by electrons, and that's the core reason why we consider an electron an electron. Those properties are the foundation that we construct our electron-kind upon. Since Natural Kind is effectively a derived concept supervening upon objects' essential properties, this concept can be projected into kinds: properties making up a kind are called essential for that kind.
+
+![To be an electron is to have a specific charge, spin, and mass](/images/natural_kinds/13_Kind_and_its_defining_properties.jpg)
+<figcaption>To be an electron is to have a specific charge, spin, and mass</figcaption>
+
+All the traits inherent to natural kinds supervene on the essence. It explains all observable properties, allows inductive inference, and is a reason why the corresponding kind participates in the Laws of Nature.
+
+![](/images/natural_kinds/09_Essence_supervening_on_laws_of_Nature.jpg)
+
+Essentialists are typically monists. This approach results in classifications with clear-cut and non-overlapping categories having clear boundaries. Essentialism can coexist with pluralism, but it states that all the classifications are grounded in a single essence, anyway. For example, we can classify chemical elements by density or [stability of isotopes](https://en.wikipedia.org/wiki/List_of_elements_by_stability_of_isotopes). This classification is arguably no less natural than the one by atomic number, but the reason they look the way they do is rooted in the microstructural properties of chemical elements. The Periodic table just reflects those properties explicitly, where a microstructural property - an atomic number -  is a categorization criterion. In the [Philosophy of Chemistry](https://plato.stanford.edu/entries/chemistry/), the view postulating that chemical kinds are individuated by microstructural properties is called either Microstructuralism or Microessentialism.
+
+### Essentialism and Identity
+There is a highly debatable question worth examining: is an object's essence essential for it? In other words, can an object's essence change? For an essentialist, an object's essence is immutable by definition. Once again, the essence is what makes an object what it is. None of the objects can survive essence change. For example, an apple can never become a pear.
+
+There are a couple of paradoxes challenging this view. Neptunium's decay into plutonium is a classic example. Can we say that some particular plutonium atom previously was neptunium? For an essentialist, chemical elements are paradigmatic examples of natural kinds, and an object belonging to some kind is its essential property. Thus, plutonium atoms can't *become* neptunium atoms; they simply can't survive this transformation. Albeit seeming counterintuitiveness, we can get away with it by not equalizing material constitution with identity. Instead of neptunium's turning into plutonium, essentialists can say that a new plutonium atom consists of components that were previously parts of some neptunium atom.
+
+### Problems
+Essentialism faces a problem in biology: it doesn't embrace mutation. But species evolve and mutate all the time, slowly but surely.  Even if there is a specific and unique set of properties inherent to a specific species right now, it likely won't be the case in a couple of million years.
+
+Cladistic classification is an alternative solution to this problem. I've already mentioned it as an example of Promiscuous Realism: the essence of species is having a single mutual ancestor. Arguably, it's not an intrinsic property, but an extrinsic one  -  after all, it's obtained in virtue of the specific ancestor. But typical essentialist view about essential properties is that they are intrinsic. So we have two options here: either remain essentialists and allow essential properties to be extrinsic, or turn to a looser view, such as Cluster Kinds.
+
+## Cluster Kind approach
+In this view, kinds are individuated by co-instantiated properties. It might look like Essentialism at first, but there are a couple of significant differences.
+
+First off, that property set is not immutable; instead, it has a lifecycle, it's evolving.
+
+![Biological species mutate over time](/images/natural_kinds/10_Biological_species_mutate_over_time.jpg)
+<figcaption>Biological species mutate over time</figcaption>
+
+Second, members of a kind are not required to share *all* of that properties. For instance, at this moment, there is a kind *K* individuated by properties *a*, *b*, *c*, and *d*. It's totally fine that one member might have properties *a* and *b*, and some other - properties *c* and *d*.
+
+You might wonder whether any arbitrary property set forms a Natural Kind. Not really. There must be a mechanism holding them together, co-instantiated. For example, in biology, homeostasis is such a mechanism. It's a complex set of physiological processes aiming to keep an organism in a stable state - in other words, alive. There is a huge amount of ways that things can go wrong; homeostasis solves arising issues the best it can. It monitors oxygen levels, body temperature, blood sugar levels, and many more, and adjusts their values to sane levels, when possible. When not, something bad can happen.
+
+It can be regarded as a Realistic view, but it's too loose for Essentialism: there is no single mandatory and unique property inherent exclusively for the specific kind. There can be multiple ways to categorize stuff in any given domain, but there is no single essence grounding all the classifications. As a result, they tend to be more interest-driven rather than purely natural. Thus, in our naturalness-interestedness scale, it's closer to Promiscuous Realism.
+
+## Any property sharing
+The most liberal way to individuate a natural kind is by an arbitrary property possessed by some objects. In this approach, there is a kind of all red things, a kind of all crispy things, a kind of all sweet things, and so on. The way we choose that property is completely up to us. Thus, the kinds are driven exclusively by our interests and aims.
+
+One possible interest area is an object's function. With this criterion, absolutely different objects can be united by some purpose they all share. For example, if we want to cut something, we can use a pair of scissors, a knife, a piece of paper (ever got cut by it?), a piece of glass, or something else entirely. They all fall under a "something that can cut" functional kind.
+
+Pretty much all of man-made stuff around us is made for a reason. Knifes for cutting, cups for drinking, chairs for sitting. In other words, all of such items can be regarded as belonging to one functional kind or another.
+
+## Naturalness vs. Interestedness, revisited
+Here is how this scale looks with the different ways to individuate Natural Kinds:
+
+![](/images/natural_kinds/Total_scale.jpg)
+
+# Natural Kind as a Metaphysical Entity
