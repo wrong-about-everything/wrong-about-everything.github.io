@@ -5,7 +5,6 @@ tags: [natural kinds]
 published: true
 ---
 
-# Introduction
 There are plenty of ways to classify stuff around us. Often times though, we might feel that there is a way that outstands among others. It reflects human-independent aspects of the world, not our classification practices or specific interests; it's *discovered* rather than invented. We refer to kinds classified this way as natural. Typically, we assume that science is pretty much successful in discovering those kinds. Paradigmatic examples include chemical elements and physical particles. In this post, I'll take a look at different ways to classify reality, and whether we, humans, have anything to do with it.
 
 # Different Views on Reality Classification
